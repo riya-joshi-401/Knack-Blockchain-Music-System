@@ -1,0 +1,2 @@
+# Knack-Blockchain-Music-System
+A blockchain-based decentralized music streaming platform to connect music enthusiasts directly to independent music artists. The artists can use this platform to share their music with greater freedom while ensuring ownership and avoiding duplication of their music. People can listen to their favourite songs and support the artists by making micropayments through our custom crypto tokens.
