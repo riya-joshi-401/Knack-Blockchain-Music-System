@@ -1,0 +1,3 @@
+const addSong = (song) => ({
+  song,
+});
