@@ -36,5 +36,3 @@ truffle migrate
 ```
 npm start
 ```
-
-  
