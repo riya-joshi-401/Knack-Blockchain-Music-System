@@ -1,0 +1,27 @@
+html,
+body,
+#knack,
+.app {
+  height: 100vh;
+  // width: 100vw;
+}
+
+h1,
+h2,
+h3 {
+  text-rendering: optimizeLegibility;
+}
+
+* {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  user-select: none; /* disable text select */
+  -webkit-touch-callout: none; /* disable callout, image save panel (popup) */
+  -webkit-tap-highlight-color: transparent; /* "turn off" link highlight */
+}
+
+a:focus {
+  outline: 0; // Firefox (remove border on link click)
+}
+
+$font-family-sans-serif: "Inter", sans-serif !default;
+@import "bootstrap";
